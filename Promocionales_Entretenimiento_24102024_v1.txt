@@ -223,24 +223,180 @@
          ]
       }
    ],
-   "default":{
-      "productos":[
-         {
-            "sku":"34004983",
-            "marca":"ITALIKA",
-            "nombre":"Motocicleta Italika 250Z Negra",
-            "precio":3500,
-            "plazo":"120",
-            "urlImagen":"https://elektra.vtexassets.com/arquivos/ids/3205515/34004983.jpg?v=637672525681100000"
-         },
-         {
-            "sku":"34004983",
-            "marca":"ITALIKA",
-            "nombre":"Motocicleta Italika 250Z Negra",
-            "precio":3500,
-            "plazo":"120",
-            "urlImagen":"https://elektra.vtexassets.com/arquivos/ids/3205515/34004983.jpg?v=637672525681100000"
-         }
-      ]
-   }
+   "default":[
+      {
+         "modulo":"juegos",
+         "productos":[
+            {
+               "sku":"34004983",
+               "marca":"ITALIKA",
+               "nombre":"Motocicleta Italika 250Z Negra",
+               "precio":3500,
+               "plazo":"120",
+               "urlImagen":"https://elektra.vtexassets.com/arquivos/ids/3205515/34004983.jpg?v=637672525681100000"
+            },
+            {
+               "sku":"34004983",
+               "marca":"ITALIKA",
+               "nombre":"Motocicleta Italika 250Z Negra",
+               "precio":3500,
+               "plazo":"120",
+               "urlImagen":"https://elektra.vtexassets.com/arquivos/ids/3205515/34004983.jpg?v=637672525681100000"
+            },
+            {
+               "sku":"34004983",
+               "marca":"ITALIKA",
+               "nombre":"Motocicleta Italika 250Z Negra",
+               "precio":3500,
+               "plazo":"120",
+               "urlImagen":"https://elektra.vtexassets.com/arquivos/ids/3205515/34004983.jpg?v=637672525681100000"
+            }
+         ]
+      },
+      {
+         "modulo":"musica",
+         "productos":[
+            {
+               "sku":"34004983",
+               "marca":"ITALIKA",
+               "nombre":"Motocicleta Italika 250Z Negra",
+               "precio":3500,
+               "plazo":"120",
+               "urlImagen":"https://elektra.vtexassets.com/arquivos/ids/3205515/34004983.jpg?v=637672525681100000"
+            },
+            {
+               "sku":"34004983",
+               "marca":"ITALIKA",
+               "nombre":"Motocicleta Italika 250Z Negra",
+               "precio":3500,
+               "plazo":"120",
+               "urlImagen":"https://elektra.vtexassets.com/arquivos/ids/3205515/34004983.jpg?v=637672525681100000"
+            },
+            {
+               "sku":"34004983",
+               "marca":"ITALIKA",
+               "nombre":"Motocicleta Italika 250Z Negra",
+               "precio":3500,
+               "plazo":"120",
+               "urlImagen":"https://elektra.vtexassets.com/arquivos/ids/3205515/34004983.jpg?v=637672525681100000"
+            }
+         ]
+      },
+      {
+         "modulo":"podcast",
+         "productos":[
+            {
+               "sku":"34004983",
+               "marca":"ITALIKA",
+               "nombre":"Motocicleta Italika 250Z Negra",
+               "precio":3500,
+               "plazo":"120",
+               "urlImagen":"https://elektra.vtexassets.com/arquivos/ids/3205515/34004983.jpg?v=637672525681100000"
+            },
+            {
+               "sku":"34004983",
+               "marca":"ITALIKA",
+               "nombre":"Motocicleta Italika 250Z Negra",
+               "precio":3500,
+               "plazo":"120",
+               "urlImagen":"https://elektra.vtexassets.com/arquivos/ids/3205515/34004983.jpg?v=637672525681100000"
+            },
+            {
+               "sku":"34004983",
+               "marca":"ITALIKA",
+               "nombre":"Motocicleta Italika 250Z Negra",
+               "precio":3500,
+               "plazo":"120",
+               "urlImagen":"https://elektra.vtexassets.com/arquivos/ids/3205515/34004983.jpg?v=637672525681100000"
+            }
+         ]
+      },
+      {
+         "modulo":"tvvivo",
+         "productos":[
+            {
+               "sku":"34004983",
+               "marca":"ITALIKA",
+               "nombre":"Motocicleta Italika 250Z Negra",
+               "precio":3500,
+               "plazo":"120",
+               "urlImagen":"https://elektra.vtexassets.com/arquivos/ids/3205515/34004983.jpg?v=637672525681100000"
+            },
+            {
+               "sku":"34004983",
+               "marca":"ITALIKA",
+               "nombre":"Motocicleta Italika 250Z Negra",
+               "precio":3500,
+               "plazo":"120",
+               "urlImagen":"https://elektra.vtexassets.com/arquivos/ids/3205515/34004983.jpg?v=637672525681100000"
+            },
+            {
+               "sku":"34004983",
+               "marca":"ITALIKA",
+               "nombre":"Motocicleta Italika 250Z Negra",
+               "precio":3500,
+               "plazo":"120",
+               "urlImagen":"https://elektra.vtexassets.com/arquivos/ids/3205515/34004983.jpg?v=637672525681100000"
+            }
+         ]
+      },
+      {
+         "modulo":"vods",
+         "productos":[
+            {
+               "sku":"34004983",
+               "marca":"ITALIKA",
+               "nombre":"Motocicleta Italika 250Z Negra",
+               "precio":3500,
+               "plazo":"120",
+               "urlImagen":"https://elektra.vtexassets.com/arquivos/ids/3205515/34004983.jpg?v=637672525681100000"
+            },
+            {
+               "sku":"34004983",
+               "marca":"ITALIKA",
+               "nombre":"Motocicleta Italika 250Z Negra",
+               "precio":3500,
+               "plazo":"120",
+               "urlImagen":"https://elektra.vtexassets.com/arquivos/ids/3205515/34004983.jpg?v=637672525681100000"
+            },
+            {
+               "sku":"34004983",
+               "marca":"ITALIKA",
+               "nombre":"Motocicleta Italika 250Z Negra",
+               "precio":3500,
+               "plazo":"120",
+               "urlImagen":"https://elektra.vtexassets.com/arquivos/ids/3205515/34004983.jpg?v=637672525681100000"
+            }
+         ]
+      },
+      {
+         "modulo":"noticias",
+         "productos":[
+            {
+               "sku":"34004983",
+               "marca":"ITALIKA",
+               "nombre":"Motocicleta Italika 250Z Negra",
+               "precio":3500,
+               "plazo":"120",
+               "urlImagen":"https://elektra.vtexassets.com/arquivos/ids/3205515/34004983.jpg?v=637672525681100000"
+            },
+            {
+               "sku":"34004983",
+               "marca":"ITALIKA",
+               "nombre":"Motocicleta Italika 250Z Negra",
+               "precio":3500,
+               "plazo":"120",
+               "urlImagen":"https://elektra.vtexassets.com/arquivos/ids/3205515/34004983.jpg?v=637672525681100000"
+            },
+            {
+               "sku":"34004983",
+               "marca":"ITALIKA",
+               "nombre":"Motocicleta Italika 250Z Negra",
+               "precio":3500,
+               "plazo":"120",
+               "urlImagen":"https://elektra.vtexassets.com/arquivos/ids/3205515/34004983.jpg?v=637672525681100000"
+            }
+         ]
+      }
+   ]
 }
