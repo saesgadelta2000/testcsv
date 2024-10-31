@@ -1,0 +1,105 @@
+{
+   "datos":[
+      {
+         "AdUnit":"/29782908/super-app-baz/Categorias-Notas/Destacadas",
+         "id":"0000017b-5b06-d3f2-a3ff-7f8fbfe50000",
+         "imagen":"https://tvazteca.brightspotcdn.com/e0/a2/6b092f684d598b55337b7a3637f4/baz-news-imagen-descartada-924x984-destacadas.jpg",
+         "principal":true,
+         "sitio":"APP SuperApp",
+         "temporal":false,
+         "titulo":"Destacadas",
+         "url":"https://www.tvazteca.com/superapp/destacadas"
+      },
+      {
+         "AdUnit":"/29782910/super-app-baz/Categorias-Notas/Politica",
+         "id":"0000017b-5b1c-d3f2-a3ff-7f9fc4be0000",
+         "imagen":"https://tvazteca.brightspotcdn.com/64/8f/0a730f5d4b8e901d8979e2055862/baz-news-imagen-descartada-924x984-politica.jpg",
+         "principal":false,
+         "sitio":"APP SuperApp",
+         "temporal":false,
+         "titulo":"Política",
+         "url":"https://www.tvazteca.com/superapp/politica"
+      },
+      {
+         "AdUnit":"/29782912/super-app-baz/Categorias-Notas/Mundo",
+         "id":"0000017b-a82a-d9df-ab7f-aeff1cb30000",
+         "imagen":"https://tvazteca.brightspotcdn.com/49/c1/f5969f4e4ef79f70772e64b25f60/baz-news-imagen-descartada-924x984-mundo.jpg",
+         "principal":false,
+         "sitio":"APP SuperApp",
+         "temporal":false,
+         "titulo":"Mundo",
+         "url":"https://www.tvazteca.com/superapp/mundo"
+      },
+      {
+         "AdUnit":"/29782914/super-app-baz/Categorias-Notas/Economia",
+         "id":"0000017b-5b25-d3f2-a3ff-7faf9ba00000",
+         "imagen":"https://tvazteca.brightspotcdn.com/26/3c/b18a386c40deba0b8517bd13708d/baz-news-imagen-descartada-924x984-economia.jpg",
+         "principal":false,
+         "sitio":"APP SuperApp",
+         "temporal":false,
+         "titulo":"Economía",
+         "url":"https://www.tvazteca.com/superapp/economia"
+      },
+      {
+         "AdUnit":"/29782916/super-app-baz/Categorias-Notas/Justicia",
+         "id":"0000017b-5b28-d3f2-a3ff-db2f820b0000",
+         "imagen":"https://tvazteca.brightspotcdn.com/b6/48/2255d3544c1f954cb7014bf0f636/baz-news-imagen-descartada-924x984-justicia.jpg",
+         "principal":false,
+         "sitio":"APP SuperApp",
+         "temporal":false,
+         "titulo":"Justicia",
+         "url":"https://www.tvazteca.com/superapp/justicia"
+      },
+      {
+         "AdUnit":"/29782918/super-app-baz/Categorias-Notas/Ciencia-Y-Salud",
+         "id":"0000017b-5b2a-d3f2-a3ff-db2f98a10000",
+         "imagen":"https://tvazteca.brightspotcdn.com/96/6b/066f909841a29a86cdd8a96a2dcc/baz-news-imagen-descartada-924x984-cie-tec.jpg",
+         "principal":false,
+         "sitio":"APP SuperApp",
+         "temporal":false,
+         "titulo":"Ciencia y salud",
+         "url":"https://www.tvazteca.com/superapp/ciencia"
+      },
+      {
+         "AdUnit":"/29782920/super-app-baz/Categorias-Notas/Mexico",
+         "id":"0000017b-5b2d-d3f2-a3ff-db2f12650000",
+         "imagen":"https://tvazteca.brightspotcdn.com/46/f4/a48820cf47ddbde87847f87a0300/baz-news-imagen-descartada-924x984-mexico.jpg",
+         "principal":false,
+         "sitio":"APP SuperApp",
+         "temporal":false,
+         "titulo":"México",
+         "url":"https://www.tvazteca.com/superapp/mexico"
+      },
+      {
+         "AdUnit":"/29782922/super-app-baz/Categorias-Notas/Deportes",
+         "id":"0000017b-5b3a-d3f2-a3ff-7fbfa2130000",
+         "imagen":"https://tvazteca.brightspotcdn.com/1d/2c/7d50091240f8bb5e89ac26d4b76e/baz-news-imagen-descartada-924x984-deportes.jpg",
+         "principal":false,
+         "sitio":"APP SuperApp",
+         "temporal":false,
+         "titulo":"Deportes",
+         "url":"https://www.tvazteca.com/superapp/deportes"
+      },
+      {
+         "AdUnit":"/29782924/super-app-baz/Categorias-Notas/Entretenimiento",
+         "id":"0000017b-5b3e-d3f2-a3ff-db3f187b0000",
+         "imagen":"https://tvazteca.brightspotcdn.com/c2/7e/82575f5e4704b9026b07f8b1f579/baz-news-imagen-descartada-924x984-entreten.jpg",
+         "principal":false,
+         "sitio":"APP SuperApp",
+         "temporal":false,
+         "titulo":"Entretenimiento",
+         "url":"https://www.tvazteca.com/superapp/entretenimiento"
+      },
+      {
+         "AdUnit":"/29782924/super-app-baz/Categorias-Notas/Entretenimiento",
+         "id":"0000017b-5b3e-d3f2-a3ff-db3f187b0085",
+         "imagen":"https://tvazteca.brightspotcdn.com/c2/7e/82575f5e4704b9026b07f8b1f579/baz-news-imagen-descartada-924x984-entreten.jpg",
+         "principal":false,
+         "sitio":"APP SuperApp",
+         "temporal":false,
+         "titulo":"Terror",
+         "url":"https://saesgadelta2000.github.io/testcsv/noticias_terror.json"
+      }
+   ],
+   "titulo":"Secciones SuperAPP"
+}
