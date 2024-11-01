@@ -99,6 +99,46 @@
          "temporal":false,
          "titulo":"Terror",
          "url":"https://saesgadelta2000.github.io/testcsv/noticias_terror.json"
+      },
+      {
+         "AdUnit":"/29782924/super-app-baz/Categorias-Notas/Entretenimiento",
+         "id":"0000017b-5b3e-d3f2-a3ff-db3f187b0086",
+         "imagen":"https://tvazteca.brightspotcdn.com/c2/7e/82575f5e4704b9026b07f8b1f579/baz-news-imagen-descartada-924x984-entreten.jpg",
+         "principal":false,
+         "sitio":"APP SuperApp",
+         "temporal":false,
+         "titulo":"Terror2",
+         "url":"https://saesgadelta2000.github.io/testcsv/noticias_terror2.json"
+      },
+            {
+         "AdUnit":"/29782924/super-app-baz/Categorias-Notas/Entretenimiento",
+         "id":"0000017b-5b3e-d3f2-a3ff-db3f187b0087",
+         "imagen":"https://tvazteca.brightspotcdn.com/c2/7e/82575f5e4704b9026b07f8b1f579/baz-news-imagen-descartada-924x984-entreten.jpg",
+         "principal":false,
+         "sitio":"APP SuperApp",
+         "temporal":false,
+         "titulo":"Terror3",
+         "url":"https://saesgadelta2000.github.io/testcsv/noticias_terror3.json"
+      },
+            {
+         "AdUnit":"/29782924/super-app-baz/Categorias-Notas/Entretenimiento",
+         "id":"0000017b-5b3e-d3f2-a3ff-db3f187b0088",
+         "imagen":"https://tvazteca.brightspotcdn.com/c2/7e/82575f5e4704b9026b07f8b1f579/baz-news-imagen-descartada-924x984-entreten.jpg",
+         "principal":false,
+         "sitio":"APP SuperApp",
+         "temporal":false,
+         "titulo":"Terror4",
+         "url":"https://saesgadelta2000.github.io/testcsv/noticias_terror4.json"
+      },
+            {
+         "AdUnit":"/29782924/super-app-baz/Categorias-Notas/Entretenimiento",
+         "id":"0000017b-5b3e-d3f2-a3ff-db3f187b0089",
+         "imagen":"https://tvazteca.brightspotcdn.com/c2/7e/82575f5e4704b9026b07f8b1f579/baz-news-imagen-descartada-924x984-entreten.jpg",
+         "principal":false,
+         "sitio":"APP SuperApp",
+         "temporal":false,
+         "titulo":"Terror en Chalco",
+         "url":"https://saesgadelta2000.github.io/testcsv/noticias_terror5.json"
       }
    ],
    "titulo":"Secciones SuperAPP"
