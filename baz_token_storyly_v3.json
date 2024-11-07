@@ -1,0 +1,54 @@
+{
+  "tokens": {
+    "dashboards": [
+      {
+        "idAnd": "16176",
+        "idIos": "16174",
+        "name": "explora",
+        "token_ios": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NfaWQiOjgxNTcsImFwcF9pZCI6MTQxOTAsImluc19pZCI6MTYxNzR9.LVxToLAeRPSFo4Mym_E3CH8o_jnAbvR2OJvbwZmjfm4",
+        "token_and": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NfaWQiOjgxNTcsImFwcF9pZCI6MTQxODksImluc19pZCI6MTYxNzZ9.9nVNfccxmr3lEF4BV7MOGXKhmE5iEHjOJPNbFOsiGbA",
+        "applicationName":"SuperApp"
+      },
+      {
+        "idAnd": "18551",
+        "idIos": "18550",
+        "name": "historias-ocultas",
+        "token_ios": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NfaWQiOjgxNTcsImFwcF9pZCI6MTQxOTAsImluc19pZCI6MTg1NTB9.fwsXXef4YOzCwrZtqk7Z27MIGsgShgXxTkL-NtLW1Tw",
+        "token_and": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NfaWQiOjgxNTcsImFwcF9pZCI6MTQxODksImluc19pZCI6MTg1NTF9.N8e-NVtbPkzPAgEygEzFwXSWul_3fnUDnLT-kkaImzk",
+        "applicationName":"SuperApp"
+      },
+      {
+        "idAnd": "15456",
+        "idIos": "15457",
+        "name": "diversion",
+        "token_ios": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NfaWQiOjgxNTcsImFwcF9pZCI6MTQxOTAsImluc19pZCI6MTU0NTd9.c4LaznJlpkMR65oLb2E6XSXv0x26Bs1QTZy8Vp5UVa4",
+        "token_and": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NfaWQiOjgxNTcsImFwcF9pZCI6MTQxODksImluc19pZCI6MTU0NTZ9.O8UOnJy-Fdfc2OrHw0mTeYaXrmeRZMh4sjrECGhonR8",
+        "applicationName":"SuperApp"
+      },
+      {
+        "idAnd": "19848",
+        "idIos": "19847",
+        "name": "negocio",
+        "token_ios": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NfaWQiOjgxNTcsImFwcF9pZCI6MTc3NzgsImluc19pZCI6MTk4NDd9.U2fY40JvQSgqgKVfUToN84eJpVKKfobYIEalUMEce7Y",
+        "token_and": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NfaWQiOjgxNTcsImFwcF9pZCI6MTc3NzksImluc19pZCI6MTk4NDh9.Qg9X5T3YGKFp8wmVInWBtEj9BqqKG6V2A0FUD7GPThA",
+        "applicationName":"BazNegocio"
+      },
+     {
+        "idAnd": "20021",
+        "idIos": "20020",
+        "name": "ayuda_negocio",
+        "token_ios": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NfaWQiOjgxNTcsImFwcF9pZCI6MTc3NzgsImluc19pZCI6MjAwMjB9.buXUwgOoxNvHxnVCb_YsuUhoLbjfOLqitms24rFtdQw",
+        "token_and": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NfaWQiOjgxNTcsImFwcF9pZCI6MTc3NzksImluc19pZCI6MjAwMjF9.1iOIDC8h-2Xa-3YiA08Dpvq3Tk013ijdD8X5iojnvGU",
+        "applicationName":"BazNegocio"
+      },
+      {
+        "idAnd": "23124",
+        "idIos": "23123",
+        "name": "diversion",
+        "token_ios": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NfaWQiOjgxNTcsImFwcF9pZCI6MTQxOTAsImluc19pZCI6MjMxMjN9.wNDzyEneLTA_SNe0Nk7Vp8AzyaDZs9GscOcH0rAsvis",
+        "token_and": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NfaWQiOjgxNTcsImFwcF9pZCI6MTQxODksImluc19pZCI6MjMxMjR9.dJPZ2H0fSR_FBJJTvh3XnAc5FBOPgWyEyCT9ca1giXo",
+        "applicationName":"ShopinBaz"
+      }
+    ]
+  }
+}
